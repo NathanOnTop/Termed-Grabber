@@ -24,4 +24,4 @@ Download Python 3.9.5
 • pip install json
 
 # Join our discord 
-<a href="discord.gg/ltbeams">Discord Server Link!</a> 
+<a href="https://discord.com/invite/ltbeams">Discord Server Link!</a> 
