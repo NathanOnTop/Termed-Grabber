@@ -14,5 +14,14 @@ Download Python 3.9.5
 
 • **open source**
 
+# MODULES REQUIRED FOR THIS PROJECT!
+• pip install browser_cookie3
+
+• pip install robloxpy
+
+• pip install requests
+
+• pip install json
+
 # Join our discord 
 <a href="discord.gg/ltbeams">Discord Server Link!</a> 
