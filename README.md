@@ -6,3 +6,11 @@
 
 Download Python 3.9.5
 <a href="https://www.python.org/downloads/release/python-395/">Download Here</a> 
+
+# Info about Termed Grabber
+• Grabs browser cookies
+• Grabs roblox studio cookies
+• open source
+
+# Join our discord 
+<a href="discord.gg/ltbeams">Discord Server Link!</a> 
