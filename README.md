@@ -4,7 +4,7 @@
 
 # How to use? 
 
-Download Python 3.9.5
+**Download Python 3.9.5**
 <a href="https://www.python.org/downloads/release/python-395/">Download Here</a> 
 
 # Info about Termed Grabber
