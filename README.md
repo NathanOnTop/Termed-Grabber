@@ -9,7 +9,9 @@ Download Python 3.9.5
 
 # Info about Termed Grabber
 • Grabs browser cookies
+
 • Grabs roblox studio cookies
+
 • open source
 
 # Join our discord 
